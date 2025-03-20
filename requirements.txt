@@ -1,0 +1,9 @@
+nibabel
+torch
+torchvision
+monai
+pandas
+numpy
+Pillow
+scikit-image
+streamlit
